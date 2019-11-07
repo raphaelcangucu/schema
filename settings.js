@@ -43,7 +43,6 @@ function generate(){
             "lowercase",
             "icu_folding",
             "trim",
-            "word_delimiter",
             "custom_admin",
             "unique_only_same_position",
             "notnull"
