@@ -129,6 +129,6 @@ chaussee, ch
 platz, pl
 
 # Brazil
-rua => r.,r
-avenida => av, av.
-via => v, v.
+rua, r.,r
+avenida, av, av.
+via, v, v.
