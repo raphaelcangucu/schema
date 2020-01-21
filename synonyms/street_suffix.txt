@@ -127,3 +127,8 @@ bruecke, brucke, br
 bahnhof, bhf, bf
 chaussee, ch
 platz, pl
+
+# Brazil
+rua, r.
+avenida, av.
+via, v.
